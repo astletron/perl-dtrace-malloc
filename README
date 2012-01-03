@@ -1,0 +1,2 @@
+This is a simple D program that prints out what subs in a perl
+program cause perl to allocate how much memory.
